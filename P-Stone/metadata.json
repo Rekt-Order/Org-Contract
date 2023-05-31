@@ -1,0 +1,40 @@
+{
+  "name": "Plant-Stones #1",
+  "image": "https://miuradonuts.com/P-Stones/1.png",
+  "attributes": [
+    {
+      "trait_type": "Stone",
+      "value": "Sedimentary Rock"
+    },
+    {
+      "value": "石植物"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shrubs"
+    },
+    {
+      "trait_type": "Spirit",
+      "value": "木魅"
+    },
+    {
+      "trait_type": "Music Type",
+      "value": "Hip-Hop"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Life Energy",
+      "value": 80
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Growth",
+      "value": 20
+    },
+    {
+      "display_type": "date",
+      "trait_type": "捕獲日",
+      "value": 1778037742
+    }
+  ]
+}

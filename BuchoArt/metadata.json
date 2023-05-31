@@ -1,0 +1,23 @@
+{
+  "description": "What he completed was more like an abstract painting that expressed his inner self than a work based on a motif.", 
+  "name": "This Art has no name #001",
+  "image": "https://miuradonuts.com/B-Art/1.png",
+  "attributes": [
+    {
+      "trait_type": "Art Type",
+      "value": "Oil Painting"
+    },
+    {
+      "trait_type": "Philosophy",
+      "value": "Autobiographical Sketch"
+    },
+    {
+      "trait_type": "Representation",
+      "value": "As one feels"
+    },
+    {
+      "trait_type": "Layer",
+      "value": "22"
+    }
+  ]
+}
