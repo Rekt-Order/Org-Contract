@@ -1,0 +1,54 @@
+{
+  "description": "He loves origami. This is why he is covered throughout. He spent days and days thinking about the meaning of the act of folding listing the various folding patterns. It was a very painstaking process.", 
+  "name": "CPP-Baby #001",
+  "image": "https://miuradonuts.com/CPP-Baby/1.gif",
+  "attributes": [
+    {
+      "trait_type": "COVERERD-FACE",
+      "value": "ORIGAMI"
+    },
+    {
+      "value": "CPP ORIGAMI"
+    },
+    {
+      "trait_type": "OCCUPATION1",
+      "value": "Origami artist"
+    },
+    {
+      "trait_type": "OCCUPATION2",
+      "value": "Screw-twist donuts thought process"
+    },
+    {
+      "trait_type": "Favourite food",
+      "value": "Yakitori"
+    },
+    {
+      "trait_type": "Favourite Phrase",
+      "value": "Hello world!"
+    },
+    {
+      "trait_type": "Favorite pastimes",
+      "value": "Football"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Activity",
+      "value": 40
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Growth Potency",
+      "value": 25
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stability",
+      "value": 40
+    },
+    {
+      "display_type": "date",
+      "trait_type": "転生日",
+      "value": 1666090920
+    }
+  ]
+}
