@@ -1,0 +1,32 @@
+{
+  "description": "このNFTはファウンダーの「ある課題」を解決するために発行されました。保有者は、ファウンダーの日々の進捗の観察者であり、応援者として認定されます。【計測ルール】①計測は１日１回実施。②１日１回、メタデータがリフレッシュされます。③計測結果は、体重計部分に記載されます。", 
+  "name": "Cursed Scales 108",
+  "image": "https://miuradonuts.com/TJK/1.gif",
+  "attributes": [
+    {
+      "trait_type": "目標タイプ",
+      "value": "背水の陣"
+    },
+     {
+      "trait_type": "理由",
+      "value": "子供の運動会で爆速で走るため"
+    },
+    {
+      "value": "減量計画"
+    },
+    {
+      "trait_type": "封じ手",
+      "value": "間食"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "持続性ブースト",
+      "value": 1072
+    },
+    {
+      "display_type": "date",
+      "trait_type": "開始日",
+      "value": 1669561200
+    }
+  ]
+}
